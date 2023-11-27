@@ -1,0 +1,17 @@
+.kutular{
+    display: inline-block; !important;
+    width: 300px; !important;
+    height: 100px; !important;
+}
+.bosluk{
+    display: inline-block;
+    width: 20px;
+}
+.baştanboşluk{
+    display: inline-block;
+    width: 68px;
+}
+.altsatır{
+    display: inline-block;!important;
+    height: 120px; !important;
+}
